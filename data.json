@@ -1,0 +1,34 @@
+[
+    {
+        "~name": "Amna",
+        "age": 44,
+        "email": "an76@gmail.com",
+        "pin": "7543",
+        "accountNo": "h890qR@",
+        "balance": 1000
+    },
+    {
+        "name": "zaianb",
+        "age": 19,
+        "email": "zainabnaeem875@gmail.com",
+        "pin": "1234",
+        "accountNo": "05E@1KW",
+        "balance": 0
+    },
+    {
+        "name": "Esha Naeem",
+        "age": 20,
+        "email": "enaeem23@gmail.com",
+        "pin": "4321",
+        "accountNo": "6^0N8RD",
+        "balance": 3000
+    },
+    {
+        "name": "Muhammad Naeem",
+        "age": 26,
+        "email": "naeem@gamil.com",
+        "pin": "4567",
+        "accountNo": "Jww700^",
+        "balance": 1400
+    }
+]
